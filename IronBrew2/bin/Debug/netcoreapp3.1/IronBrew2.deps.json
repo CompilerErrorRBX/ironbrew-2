@@ -40,14 +40,14 @@
     "System.Runtime.CompilerServices.Unsafe/4.6.0-preview.18571.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0IiiM8BMN3H07Pr0427aHXqvoADZ0wEeV76hrwx2vI6MMDB2rQE/dTpU2N1YLm4ErOHUspG++7LuaufwVBtt0Q==",
+      "sha512": "sha512-RlKzUOKfzOvQsexDiEai+zgs5ZDM75D9awG+hPrAPq6iChW2opzjPruDwrhVq1n0HrCPbTfvrL6A6nL2+rDpnA==",
       "path": "system.runtime.compilerservices.unsafe/4.6.0-preview.18571.3",
       "hashPath": "system.runtime.compilerservices.unsafe.4.6.0-preview.18571.3.nupkg.sha512"
     },
     "System.Text.Encoding.CodePages/4.6.0-preview.18571.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0PuNfrimhmNvnqICdzzD8OgJGt91JdXEzvyzCpLiW2/jizKlL354/nYl36/5MObzx85IPoxz5fp/LnuTR39Kqw==",
+      "sha512": "sha512-MYFHOtbSfHdWXtG8gqqfFdEfy6mkIGqyIeI1H8U5ChlSx5/VW595B7JAtbX942lYUHzC6CXCcoILD7scN05c9Q==",
       "path": "system.text.encoding.codepages/4.6.0-preview.18571.3",
       "hashPath": "system.text.encoding.codepages.4.6.0-preview.18571.3.nupkg.sha512"
     }

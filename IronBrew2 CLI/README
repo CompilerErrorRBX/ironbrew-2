@@ -1,0 +1,5 @@
+dotnet run ./script.lua
+
+C:/"Program Files"/dotnet/dotnet run ./script.lua
+
+You're welcome.
